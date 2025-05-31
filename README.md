@@ -1,4 +1,3 @@
-# Bloodlink---A-blood-donation-Platform
 
 # 🩸 BloodLink - Blood Donation Platform
 
